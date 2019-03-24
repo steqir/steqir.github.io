@@ -1,4 +1,4 @@
-# steqir.github.io
+# http://steqir.github.io
 ## Heading2
 Hello **world**!,
 
