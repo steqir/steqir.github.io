@@ -1,10 +1,10 @@
-# http://steqir.github.io
+# steqir.github.io
 ## Heading2
 Hello **world**!,
 
 I'm available under this domains:
-- steq.ir
-- steqir.github.io
+- http://steq.ir
+- http://steqir.github.io
 
 This is a **test** edit.
 
